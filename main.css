@@ -1,0 +1,115 @@
+head{
+
+}
+body{
+	position:relative;
+
+}
+.box11{
+	width: 50%;
+	font-family:verdana;
+	padding: 20px;
+}
+.a11{
+	background-color: gray;
+	color:white;
+	padding:10px;
+}
+.a12{
+	width: 50%;
+	margin-left: 300px;
+}
+.box_tab{
+	overflow: auto;
+	height:220px;
+}
+.sss{
+	text-align:right;
+	margin-top:-130px;
+	margin-right:20px;
+}
+.box{
+	border-style:solid;
+	border-width:2px;
+	border-color:rgb(152, 152, 152);
+	border-radius:7px;
+	margin:13px;
+	height:261px;
+	width: calc(32.7% - 30px);
+	padding:0px;
+	left:1%;
+}
+
+
+.box-img1{
+	height:200px;
+	background-size:cover;
+	background-image:url("assets/andman.jpg");
+	background-repeat:no-repeat;
+}
+.box-img2{
+	height:200px;
+	background-size:cover;
+	background-image:url("assets/activity.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.box-img3{
+	height:200px;
+	background-size:cover;
+	background-image:url("assets/Hotels.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.box-img4{
+	height:200px;
+	background-size:cover;
+	background-image:url("assets/singapore.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.box-img5{
+	height:200px;
+	background-size:cover;
+	background-image:url("assets/ladakh.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.box-img6{
+	height:200px;
+	background-size:cover;
+	background-image:url("assets/chains.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.affix {
+      top: 0;
+      width: 100%;
+	  z-index: 9999 !important;
+  }
+
+  .affix + .container-fluid {
+      padding-top: 70px;
+  }
+.text-box{
+	font-size:120%;
+	font-family:verdana;
+	text-align:center;
+}
+.text-box1{
+	text-align:center;
+	color:gray;
+}
+a:link {
+    color: black;
+
+}
+a:visited {
+    color: black;
+}
+a:hover {
+    color: black;
+}
+a:active {
+    color: black;
+}
